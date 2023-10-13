@@ -1,6 +1,5 @@
 #include <iostream>
 #include <thread>
-#include <csignal>
 #include "Queue.h"
 
 int main(){
