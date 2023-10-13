@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/QueueClass.dir/main.cpp.o -o QueueClass 

@@ -1,0 +1,3 @@
+/home/dinis/work/QueueClass/test/out/CMakeFiles/runTests.dir
+/home/dinis/work/QueueClass/test/out/CMakeFiles/edit_cache.dir
+/home/dinis/work/QueueClass/test/out/CMakeFiles/rebuild_cache.dir

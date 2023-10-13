@@ -1,0 +1,3 @@
+/home/dinis/work/QueueClass/out/CMakeFiles/QueueClass.dir
+/home/dinis/work/QueueClass/out/CMakeFiles/edit_cache.dir
+/home/dinis/work/QueueClass/out/CMakeFiles/rebuild_cache.dir
