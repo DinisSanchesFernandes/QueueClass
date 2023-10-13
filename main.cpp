@@ -6,7 +6,6 @@
 int main(){
 
     Queue<int> queue(2);
-    int PushSignal = false;
 
     std::thread pushthread([&queue](){
 
